@@ -4,3 +4,6 @@ My name is Abiodun Ayo-Bali. I am a PhD student in the geological and environmen
 Ph.D. in Geology & Environmental Science, University of Pittsburgh
 M.S. in Geological and Earth Sciences/Geosciences, Ohio University
 B.S. in Geology, University of Benin
+
+
+![](images/landslide.JPG)
